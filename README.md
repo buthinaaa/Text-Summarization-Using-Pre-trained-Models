@@ -39,10 +39,10 @@ This project implements text summarization using pre-trained encoder-decoder mod
 ✅ **Improvement**: +5.2% ROUGE-1 compared to CNN/DM baseline
 
 ## 📁 Project Structure
-
-├── Evaluation on dailymail.ipynb # Evaluation on CNN/DM dataset
-├── finetuning on dialogSum.ipynb # Fine-tuning on DialogSum dataset
-└──README.md # This file
+project/
+├── Evaluation on dailymail.ipynb      # Evaluation on CNN/DailyMail dataset
+├── finetuning on dialogSum.ipynb       # Fine-tuning on DialogSum dataset
+└── README.md                          # This file
 
 ## 🛠️ Tools & Libraries
 
