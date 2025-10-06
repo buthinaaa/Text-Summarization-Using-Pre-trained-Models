@@ -1,6 +1,6 @@
 # Text Summarization Using Pre-trained Models
 
-This project implements text summarization using pre-trained encoder-decoder models (T5, BART, Pegasus) as part of the Elevvo Pathway.
+This project implements text summarization using pre-trained encoder-decoder models as part of the Elevvo Pathway internship.
 
 ## 🎯 Project Goals
 
